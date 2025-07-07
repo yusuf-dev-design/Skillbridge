@@ -61,5 +61,11 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Pictures
 
 ![1750875532060](https://github.com/user-attachments/assets/7fc4ca15-f5be-4456-b821-89d63233b72a)
+![1750875532497](https://github.com/user-attachments/assets/c3be7e97-6e47-4e45-95e8-9a3665770981)
+![1750875533574](https://github.com/user-attachments/assets/e72d35a0-1871-4180-b2b7-5958ad267f52)
+![1750875532301](https://github.com/user-attachments/assets/12d1f528-20e6-41c0-9df3-f35596d8a7b5)
+![1750875532501](https://github.com/user-attachments/assets/59162dc5-9d0a-4e28-8587-d5407310702d)
+![1750875532274](https://github.com/user-attachments/assets/7c141aba-e270-4ae5-abf2-5d38e54aa223)
+
 
 ## This README file is now copyable for GitHub.
