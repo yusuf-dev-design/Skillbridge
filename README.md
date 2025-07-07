@@ -58,8 +58,8 @@ Contributions are welcome! Please refer to the CONTRIBUTING.md file for guidelin
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Contact
+## Pictures
 
-For any questions or inquiries, please contact us at [driss.bouadoud@final.edu.tr]
+![1750875532060](https://github.com/user-attachments/assets/7fc4ca15-f5be-4456-b821-89d63233b72a)
 
 ## This README file is now copyable for GitHub.
